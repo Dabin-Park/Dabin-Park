@@ -27,7 +27,7 @@ Research Assistant, Mathematics of Tomography Lab (Advisor: Prof. Sunghwan Moon)
 Advisor: Prof. Sunghwan Moon. Inverse problems for the wave and fractional wave equations; deep-learning
 approaches to photoacoustic tomography and to operator learning for parametric PDEs.
 
-**Florida State University, Tallahassee, FL, USA** — Visiting Researcher · 2024.04.30 – 2025.04.29 (12 months)
+**Florida State University, Tallahassee, FL, USA** — Visiting Researcher · 2024.04 – 2025.07
 BK21 FOUR Graduate Student Overseas Training Program (Innovative Talent Education and Research Group for
 Mathematical Sciences). Host: Prof. Sanghyun Lee. Inverse and multiscale problems for physical equations;
 machine-learning and finite element methods for inverse elliptic PDEs.
@@ -96,7 +96,11 @@ machine-learning and finite element methods for inverse elliptic PDEs.
 - **Poster**, KSIAM Spring Conference (춘계학술대회), IBS, 2022.05.27 – 05.29
 - **Oral**, Harmonic Analysis Workshop (조화해석 워크숍), Sungkyunkwan University, online, 2022.02.16 – 02.18
 
-Departmental graduate student research presentations, School of Mathematics, Kyungpook National University — every semester, 2022.1 – 2026.1.
+---
+
+## Service
+
+- **Organizing Committee**, Workshop for Young Mathematicians in Korea (WYMK), 2026
 
 ---
 
