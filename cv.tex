@@ -1,0 +1,132 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{charter}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage[hidelinks]{hyperref}
+
+\hypersetup{colorlinks=true, linkcolor=black, urlcolor=[rgb]{0.10,0.30,0.55}}
+
+\titleformat{\section}{\large\bfseries\scshape}{}{0em}{}[\vspace{-0.7em}\rule{\textwidth}{0.6pt}]
+\titlespacing*{\section}{0pt}{1.3em}{0.7em}
+
+\setlist[itemize]{leftmargin=1.2em, itemsep=0.35em, topsep=0.3em, parsep=0pt}
+\newcommand{\me}{\textbf{D.~Park}}
+\newcommand{\entry}[2]{\noindent\begin{tabularx}{\textwidth}{@{}Xr@{}}#1 & #2\end{tabularx}\par}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Dabin Park}\\[0.35em]
+  {\normalsize Ph.D.\ Student, School of Mathematics, Kyungpook National University}\\[0.2em]
+  {\small Daegu, Republic of Korea \quad$\cdot$\quad Advisor: Prof.\ Sunghwan Moon}\\[0.2em]
+  {\small \href{https://github.com/Dabin-Park}{github.com/Dabin-Park}}
+\end{center}
+
+\vspace{0.5em}
+
+\section{Research Interests}
+
+Inverse problems; integral geometry and tomography (photoacoustic tomography, Radon-type transforms);
+operator learning and scientific machine learning for partial differential equations; finite element methods.
+
+\section{Education}
+
+\entry{\textbf{Kyungpook National University} --- Ph.D.\ course, Mathematics}{2023.09 -- present}
+\entry{\textbf{Kyungpook National University} --- M.S., Mathematics}{-- 2023.08}
+\begin{itemize}[nosep]
+  \item GPA 4.30 / 4.30
+\end{itemize}
+\vspace{0.4em}
+\entry{\textbf{Kyungpook National University} --- B.S., Mathematics}{-- 2022.02}
+\begin{itemize}[nosep]
+  \item GPA 3.81 / 4.30; graduated with \textbf{highest honors} in the Department of Mathematics
+\end{itemize}
+
+\section{Publications}
+
+\textbf{Peer-reviewed journal articles}
+\begin{enumerate}[leftmargin=1.4em, itemsep=0.5em, topsep=0.4em]
+  \item \me, S.~Lee, S.~Moon.
+    \emph{A machine learning and finite element framework for inverse elliptic PDEs via Dirichlet-to-Neumann mapping.}
+    Journal of Computational and Applied Mathematics, \textbf{486} (2026), 117679.
+    \href{https://doi.org/10.1016/j.cam.2026.117679}{doi:10.1016/j.cam.2026.117679}
+
+  \item G.~Hwang, G.~Jeon, S.~Moon, \me.
+    \emph{Implicit learning to determine variable sound speed and the reconstruction operator in photoacoustic tomography.}
+    Applied Mathematics in Science and Engineering, \textbf{34}(1) (2026), 2661458.
+    \href{https://doi.org/10.1080/27690911.2026.2661458}{doi:10.1080/27690911.2026.2661458}
+
+  \item \me, S.~Moon.
+    \emph{Reconstruction of an initial function from the solutions of the fractional wave equation on the light cone trace.}
+    Mathematical Methods in the Applied Sciences, \textbf{47}(12) (2024), 9469--9475.
+    \href{https://doi.org/10.1002/mma.10078}{doi:10.1002/mma.10078}
+\end{enumerate}
+
+\vspace{0.5em}
+\noindent\textbf{In preparation}
+\begin{enumerate}[leftmargin=1.4em, itemsep=0.5em, topsep=0.4em, start=4]
+  \item \me, S.~Lee, S.~Moon.
+    \emph{T-FEONet: A Transformer-based finite element operator network for time-dependent parametric PDEs.}
+\end{enumerate}
+
+\section{Awards}
+
+\entry{\textbf{Best Paper Presentation Award}, Fall Conference of the Korean Data \& Information}{2023.11}
+\entry{\hspace{1em}Science Society, Graduate Student Paper Presentation Competition}{}
+\entry{\textbf{Encouragement Prize}, Annual Meeting of the Youngnam Mathematical Society}{2023.07}
+\entry{\textbf{Award for Presentation Excellence}, 15th Graduate Student Workshop}{2022.07}
+\entry{\textbf{Highest Honors} on B.S.\ graduation, Kyungpook National University}{2022.02}
+
+\section{Conference Presentations}
+
+\noindent\emph{Implicit learning for the variable sound speed and the reconstruction operator in photoacoustic tomography}
+\begin{itemize}
+  \item \textbf{Oral.} Fall Conference of the Korean Data \& Information Science Society,
+    Daegu University, 2023.11.03--11.04. \hfill \emph{Best Paper Presentation Award}
+\end{itemize}
+
+\vspace{0.6em}
+\noindent\emph{Reconstruction of the initial functions from the solutions of the fractional wave equation on the light cone trace}
+\begin{itemize}
+  \item \textbf{Poster.} Annual Meeting of the Youngnam Mathematical Society,
+    Kyungpook National University, Daegu, 2023.07.14--07.16. \hfill \emph{Encouragement Prize}
+  \item \textbf{Oral (in English).} 15th Graduate Student Workshop, online, 2022.07.26--07.28.
+    \hfill \emph{Award for Presentation Excellence}
+  \item \textbf{Oral.} Youngnam Mathematical Society, Dong-A University, Busan, 2022.06.23--06.24.
+  \item \textbf{Poster.} KSIAM Spring Conference, Institute for Basic Science, 2022.05.27--05.29.
+  \item \textbf{Oral.} Harmonic Analysis Workshop, Sungkyunkwan University, online, 2022.02.16--02.18.
+\end{itemize}
+
+\section{Conferences and Workshops Attended}
+
+\entry{ICIAM 2023, Waseda University, Tokyo, Japan}{2023.08.20 -- 08.25}
+\entry{KMS Spring Meeting, Daejeon Convention Center}{2023.04.27 -- 04.29}
+\entry{Winter AI Tutorial 2023 --- Graph Neural Networks and Generative Models}{2023.02.21 -- 02.22}
+\entry{KSIAM Fall Conference, Sonocalm Jeju}{2022.11.24 -- 11.27}
+\entry{KSIAM Fall Conference, BEXCO, Busan}{2021.12.02 -- 12.05}
+
+\section{Competitions}
+
+\entry{\textbf{Nongnet Agricultural Price Fluctuation Forecasting AI Competition}}{2022.09}
+\begin{itemize}[nosep]
+  \item Predicting the rate of change of agricultural prices against a reference date.
+  \item \textbf{18th place} out of 69 teams.
+    \href{https://aifactory.space/task/2104/overview}{Competition page}
+\end{itemize}
+
+\section{Skills}
+
+\begin{itemize}
+  \item \textbf{Scientific computing:} FEniCS / legacy dolfin, finite element methods
+  \item \textbf{Machine learning:} PyTorch (CUDA), operator learning, Transformer architectures
+  \item \textbf{Languages and tools:} Python, MATLAB, \LaTeX, Git, Docker / Dev Containers, Linux (WSL2)
+\end{itemize}
+
+\end{document}
