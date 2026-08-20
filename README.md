@@ -119,7 +119,6 @@ machine-learning and finite element methods for inverse elliptic PDEs.
 - **KMS Spring Meeting** (한국수학회 봄 연구발표회), Daejeon Convention Center, 2023.04.27 – 04.29
 - **Winter AI Tutorial 2023** — *Graph Neural Networks and Generative Models* (그래프 신경망과 생성모델), 2023.02.21 – 02.22
 - **KSIAM Fall Conference** (추계학술대회), Sonocalm Jeju, 2022.11.24 – 11.27
-- **Understanding Graphs and Building GNNs** (그래프의 이해와 GNN 구축), Coredottoday training course, 2022.08
 - **KSIAM Fall Conference** (추계학술대회), BEXCO, Busan, 2021.12.02 – 12.05
 
 ---
