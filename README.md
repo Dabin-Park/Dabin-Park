@@ -85,7 +85,7 @@ machine-learning and finite element methods for inverse elliptic PDEs.
 
 - **Oral**, 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26), Grand Hotel Palace, Thessaloniki, Greece, 2026.03
 
-**A learning-based framework for inverse problems using Dirichlet and Neumann boundary data**
+**A machine learning and finite element framework for inverse elliptic PDEs via Dirichlet-to-Neumann mapping**
 
 - **Oral (contributed student talk)**, 2025 Southeast Applied and Computational Math Student Workshop, Auburn University, Auburn, AL, USA, 2025.04.06
 
