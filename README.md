@@ -29,7 +29,8 @@ approaches to photoacoustic tomography and to operator learning for parametric P
 
 **Florida State University, Tallahassee, FL, USA** — Visiting Researcher · 2024.04 – 2025.07
 BK21 FOUR Graduate Student Overseas Training Program (Innovative Talent Education and Research Group for
-Mathematical Sciences). Host: Prof. Sanghyun Lee. Inverse and multiscale problems for physical equations;
+Mathematical Sciences) — 12-month fellowship, extended by a further 3 months at own expense.
+Host: Prof. Sanghyun Lee. Inverse and multiscale problems for physical equations;
 machine-learning and finite element methods for inverse elliptic PDEs.
 
 ---
@@ -83,6 +84,10 @@ machine-learning and finite element methods for inverse elliptic PDEs.
 **Secure and privacy-preserving intrusion detection in wireless sensor networks via perturbation adversarial training**
 
 - **Oral**, 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26), Grand Hotel Palace, Thessaloniki, Greece, 2026.03
+
+**A learning-based framework for inverse problems using Dirichlet and Neumann boundary data**
+
+- **Oral (contributed student talk)**, 2025 Southeast Applied and Computational Math Student Workshop, Auburn University, Auburn, AL, USA, 2025.04.06
 
 **Self-supervised / implicit learning for the variable sound speed and the reconstruction operator in photoacoustic tomography**
 
