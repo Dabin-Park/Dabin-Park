@@ -111,10 +111,15 @@ machine-learning and finite element methods for inverse elliptic PDEs.
 
 ## Conferences and workshops attended
 
+- **2026 KMS Yeongnam Branch AI Summer School** (2026년 영남지부 인공지능 여름학교), Pusan National University, Busan, 2026.08.03 – 08.06
+- **Youngnam Mathematical Society** (영남수학회), Busan, 2026.07
+- **KSIAM Annual Meeting** (KSIAM 학술대회), 2025.11
+- **SIAM Conference on Computational Science and Engineering (CSE25)**, Fort Worth Convention Center, Fort Worth, TX, USA, 2025.03.03 – 03.07
 - **ICIAM 2023**, Waseda University, Tokyo, Japan, 2023.08.20 – 08.25
 - **KMS Spring Meeting** (한국수학회 봄 연구발표회), Daejeon Convention Center, 2023.04.27 – 04.29
 - **Winter AI Tutorial 2023** — *Graph Neural Networks and Generative Models* (그래프 신경망과 생성모델), 2023.02.21 – 02.22
 - **KSIAM Fall Conference** (추계학술대회), Sonocalm Jeju, 2022.11.24 – 11.27
+- **Understanding Graphs and Building GNNs** (그래프의 이해와 GNN 구축), Coredottoday training course, 2022.08
 - **KSIAM Fall Conference** (추계학술대회), BEXCO, Busan, 2021.12.02 – 12.05
 
 ---
