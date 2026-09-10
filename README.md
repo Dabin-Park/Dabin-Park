@@ -82,11 +82,11 @@ machine-learning and finite element methods for inverse elliptic PDEs.
 
 ## Conference presentations
 
-Slides and posters, where they survive, are collected in [`talks/`](talks/).
+Slides and posters, where they survive, are collected in [`talks/`](talks/), grouped by paper.
 
 **Secure and privacy-preserving intrusion detection in wireless sensor networks via perturbation adversarial training**
 
-- **Oral**, 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26), Grand Hotel Palace, Thessaloniki, Greece, 2026.03
+- **Oral**, 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26), Grand Hotel Palace, Thessaloniki, Greece, 2026.03 · [slides](talks/wsn-intrusion-detection/2026-03-sac/slides.pdf)
 
 **A machine learning and finite element framework for inverse elliptic PDEs via Dirichlet-to-Neumann mapping**
 
@@ -94,14 +94,14 @@ Slides and posters, where they survive, are collected in [`talks/`](talks/).
 
 **Self-supervised / implicit learning for the variable sound speed and the reconstruction operator in photoacoustic tomography**
 
-- **Oral**, Fall Conference of the Korean Data and Information Science Society (한국데이터정보과학회 추계학술 논문 발표회 및 대학원생 논문 발표대회), Daegu University, 2023.11.03 – 11.04 — *Top Prize*
+- **Oral**, Fall Conference of the Korean Data and Information Science Society (한국데이터정보과학회 추계학술 논문 발표회 및 대학원생 논문 발표대회), Daegu University, 2023.11.03 – 11.04 — *Top Prize* · [slides](talks/photoacoustic-tomography/2023-11-kdiss/slides.pdf)
 
 **Reconstruction of the initial functions from the solutions of the fractional wave equation on the light cone trace**
 
-- **Poster**, Annual Meeting of the Youngnam Mathematical Society (영남수학회 정기총회 및 연구발표회), Kyungpook National University, Daegu, 2023.07.14 – 07.16 — *Participation Prize* · [poster](talks/2023-07-ynms/poster.pdf)
-- **Oral (in English)**, 15th Graduate Student Workshop on Mathematics (제15회 대학원생 워크숍), online, 2022.07.26 – 07.28 — *Award for Presentation Excellence* · [slides](talks/2022-07-grad-workshop/slides.pdf)
-- **Oral**, Youngnam Mathematical Society (영남수학회), Dong-A University Seunghak Campus, 2022.06.23 – 06.24 · [slides](talks/2022-06-ynms/slides.pdf)
-- **Poster**, KSIAM Spring Conference (춘계학술대회), IBS, 2022.05.27 – 05.29 · [poster](talks/2022-05-ksiam-spring/poster.pdf) · [slides](talks/2022-05-ksiam-spring/slides.pdf)
+- **Poster**, Annual Meeting of the Youngnam Mathematical Society (영남수학회 정기총회 및 연구발표회), Kyungpook National University, Daegu, 2023.07.14 – 07.16 — *Participation Prize* · [poster](talks/light-cone-trace/2023-07-ynms/poster.pdf)
+- **Oral (in English)**, 15th Graduate Student Workshop on Mathematics (제15회 대학원생 워크숍), online, 2022.07.26 – 07.28 — *Award for Presentation Excellence* · [slides](talks/light-cone-trace/2022-07-grad-workshop/slides.pdf)
+- **Oral**, Youngnam Mathematical Society (영남수학회), Dong-A University Seunghak Campus, 2022.06.23 – 06.24 · [slides](talks/light-cone-trace/2022-06-ynms/slides.pdf)
+- **Poster**, KSIAM Spring Conference (춘계학술대회), IBS, 2022.05.27 – 05.29 · [poster](talks/light-cone-trace/2022-05-ksiam-spring/poster.pdf) · [slides](talks/light-cone-trace/2022-05-ksiam-spring/slides.pdf)
 - **Oral**, Harmonic Analysis Workshop (조화해석 워크숍), Sungkyunkwan University, online, 2022.02.16 – 02.18
 
 ---
