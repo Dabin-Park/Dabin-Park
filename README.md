@@ -7,6 +7,7 @@ Research Assistant, Mathematics of Tomography Lab (Advisor: Prof. Sunghwan Moon)
 
 - Email: ekqls5264@knu.ac.kr
 - **PDF version:** [cv.pdf](cv.pdf) (LaTeX source: [cv.tex](cv.tex))
+- **Talk materials:** [talks/](talks/) — slides and posters from conference presentations
 - arXiv: [2407.09749](https://arxiv.org/abs/2407.09749), [2504.03895](https://arxiv.org/abs/2504.03895)
 
 ---
@@ -81,6 +82,8 @@ machine-learning and finite element methods for inverse elliptic PDEs.
 
 ## Conference presentations
 
+Slides and posters, where they survive, are collected in [`talks/`](talks/).
+
 **Secure and privacy-preserving intrusion detection in wireless sensor networks via perturbation adversarial training**
 
 - **Oral**, 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26), Grand Hotel Palace, Thessaloniki, Greece, 2026.03
@@ -95,10 +98,10 @@ machine-learning and finite element methods for inverse elliptic PDEs.
 
 **Reconstruction of the initial functions from the solutions of the fractional wave equation on the light cone trace**
 
-- **Poster**, Annual Meeting of the Youngnam Mathematical Society (영남수학회 정기총회 및 연구발표회), Kyungpook National University, Daegu, 2023.07.14 – 07.16 — *Participation Prize*
-- **Oral (in English)**, 15th Graduate Student Workshop on Mathematics (제15회 대학원생 워크숍), online, 2022.07.26 – 07.28 — *Award for Presentation Excellence*
-- **Oral**, Youngnam Mathematical Society (영남수학회), Dong-A University Seunghak Campus, 2022.06.23 – 06.24
-- **Poster**, KSIAM Spring Conference (춘계학술대회), IBS, 2022.05.27 – 05.29
+- **Poster**, Annual Meeting of the Youngnam Mathematical Society (영남수학회 정기총회 및 연구발표회), Kyungpook National University, Daegu, 2023.07.14 – 07.16 — *Participation Prize* · [poster](talks/2023-07-ynms/poster.pdf)
+- **Oral (in English)**, 15th Graduate Student Workshop on Mathematics (제15회 대학원생 워크숍), online, 2022.07.26 – 07.28 — *Award for Presentation Excellence* · [slides](talks/2022-07-grad-workshop/slides.pdf)
+- **Oral**, Youngnam Mathematical Society (영남수학회), Dong-A University Seunghak Campus, 2022.06.23 – 06.24 · [slides](talks/2022-06-ynms/slides.pdf)
+- **Poster**, KSIAM Spring Conference (춘계학술대회), IBS, 2022.05.27 – 05.29 · [poster](talks/2022-05-ksiam-spring/poster.pdf) · [slides](talks/2022-05-ksiam-spring/slides.pdf)
 - **Oral**, Harmonic Analysis Workshop (조화해석 워크숍), Sungkyunkwan University, online, 2022.02.16 – 02.18
 
 ---
