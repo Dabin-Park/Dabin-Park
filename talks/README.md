@@ -33,11 +33,12 @@ Engineering **34**(1) (2026), 2661458.
 
 | Date | Event | Type | Material | Title as presented |
 |---|---|---|---|---|
-| 2023.11 | Fall Conference of the Korean Data and Information Science Society (한국데이터정보과학회 추계학술 논문 발표회 및 대학원생 논문 발표대회), Daegu University — *Top Prize* | Oral | [slides.pdf](photoacoustic-tomography/2023-11-kdiss/slides.pdf) | Unsupervised learning for the variable sound speed and inverse operator in photoacoustic tomography |
+| 2023.11 | Fall Conference of the Korean Data and Information Science Society (한국데이터정보과학회 추계학술 논문 발표회 및 대학원생 논문 발표대회), Daegu University — *Top Prize* | Oral | [slides.pdf](photoacoustic-tomography/2023-11-kdiss/slides.pdf), [certificate.pdf](photoacoustic-tomography/2023-11-kdiss/certificate.pdf) | Unsupervised learning for the variable sound speed and inverse operator in photoacoustic tomography |
 
-The abstract and entry form submitted to the contest instead read *Self-supervised learning for
-the variable wave velocity and inverse operator in photoacoustic tomography*, with D. Park as
-first author; the published paper lists the authors in a different order.
+The deck is the odd one out. The abstract, the entry form and the Top Prize certificate all read
+*Self-supervised learning for the variable wave velocity and inverse operator in photoacoustic
+tomography*, so that is the title of record for this talk. The certificate names D. Park, G. Hwang
+and G. Jeon, with S. Moon as advisor; the published paper lists the authors in a different order.
 
 ---
 

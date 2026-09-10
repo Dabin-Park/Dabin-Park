@@ -94,7 +94,7 @@ Slides and posters, where they survive, are collected in [`talks/`](talks/), gro
 
 **Self-supervised / implicit learning for the variable sound speed and the reconstruction operator in photoacoustic tomography**
 
-- **Oral**, Fall Conference of the Korean Data and Information Science Society (한국데이터정보과학회 추계학술 논문 발표회 및 대학원생 논문 발표대회), Daegu University, 2023.11.03 – 11.04 — *Top Prize* · [slides](talks/photoacoustic-tomography/2023-11-kdiss/slides.pdf)
+- **Oral**, Fall Conference of the Korean Data and Information Science Society (한국데이터정보과학회 추계학술 논문 발표회 및 대학원생 논문 발표대회), Daegu University, 2023.11.03 – 11.04 — *Top Prize* · [slides](talks/photoacoustic-tomography/2023-11-kdiss/slides.pdf) · [certificate](talks/photoacoustic-tomography/2023-11-kdiss/certificate.pdf)
 
 **Reconstruction of the initial functions from the solutions of the fractional wave equation on the light cone trace**
 
