@@ -69,6 +69,14 @@ machine-learning and finite element methods for inverse elliptic PDEs.
 
 ---
 
+## Scholarships
+
+| Period | Scholarship |
+|---|---|
+| 2026.09 – present | **Doctoral Excellence Scholarship (Science and Engineering)** (박사우수장학금(이공계)), Ministry of Science and ICT, Republic of Korea — selected 2026.08.31 · [certificate](scholarships/2026-msit-doctoral/certificate.pdf) |
+
+---
+
 ## Awards
 
 | Date | Award |
