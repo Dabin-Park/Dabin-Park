@@ -98,7 +98,7 @@ Slides and posters, where they survive, are collected in [`talks/`](talks/), gro
 
 **A machine learning and finite element framework for inverse elliptic PDEs via Dirichlet-to-Neumann mapping**
 
-- **Oral (contributed student talk)**, 2025 Southeast Applied and Computational Math Student Workshop, Auburn University, Auburn, AL, USA, 2025.04.06
+- **Oral (contributed student talk)**, 2025 Southeast Applied and Computational Math Student Workshop, Auburn University, Auburn, AL, USA, 2025.04.06 · [slides](talks/dtn-inverse-elliptic/2025-04-seacm/slides.pdf)
 
 **Self-supervised / implicit learning for the variable sound speed and the reconstruction operator in photoacoustic tomography**
 
@@ -110,7 +110,7 @@ Slides and posters, where they survive, are collected in [`talks/`](talks/), gro
 - **Oral (in English)**, 15th Graduate Student Workshop on Mathematics (제15회 대학원생 워크숍), online, 2022.07.26 – 07.28 — *Award for Presentation Excellence* · [slides](talks/light-cone-trace/2022-07-grad-workshop/slides.pdf)
 - **Oral**, Youngnam Mathematical Society (영남수학회), Dong-A University Seunghak Campus, 2022.06.23 – 06.24 · [slides](talks/light-cone-trace/2022-06-ynms/slides.pdf)
 - **Poster**, KSIAM Spring Conference (춘계학술대회), IBS, 2022.05.27 – 05.29 · [poster](talks/light-cone-trace/2022-05-ksiam-spring/poster.pdf) · [slides](talks/light-cone-trace/2022-05-ksiam-spring/slides.pdf)
-- **Oral**, Harmonic Analysis Workshop (조화해석 워크숍), Sungkyunkwan University, online, 2022.02.16 – 02.18
+- **Oral**, Harmonic Analysis Workshop (조화해석 워크숍), Sungkyunkwan University, online, 2022.02.16 – 02.18 · [slides](talks/light-cone-trace/2022-02-harmonic-analysis/slides.pdf)
 
 ---
 

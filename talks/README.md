@@ -9,6 +9,18 @@ so each entry records the wording actually used on the deck or poster.
 
 ---
 
+## `dtn-inverse-elliptic/`
+
+**D. Park, S. Lee, S. Moon.** *A machine learning and finite element framework for inverse elliptic
+PDEs via Dirichlet-to-Neumann mapping.* Journal of Computational and Applied Mathematics **486**
+(2026), 117679. [doi:10.1016/j.cam.2026.117679](https://doi.org/10.1016/j.cam.2026.117679)
+
+| Date | Event | Type | Material | Title as presented |
+|---|---|---|---|---|
+| 2025.04 | 2025 Southeast Applied and Computational Math Student Workshop, Auburn University, Auburn, AL, USA | Oral (contributed student talk) | [slides.pdf](dtn-inverse-elliptic/2025-04-seacm/slides.pdf) | A Learning-Based Framework for Inverse Problems using Dirichlet and Neumann Boundary Data |
+
+---
+
 ## `light-cone-trace/`
 
 **D. Park, S. Moon.** *Reconstruction of an initial function from the solutions of the fractional
@@ -21,6 +33,12 @@ wave equation on the light cone trace.* Mathematical Methods in the Applied Scie
 | 2022.07 | 15th Graduate Student Workshop on Mathematics (제15회 대학원생 워크숍), online — *Award for Presentation Excellence* | Oral | [slides.pdf](light-cone-trace/2022-07-grad-workshop/slides.pdf) | Recovering of the initial values from light cone trace of solutions of the fractional wave equation |
 | 2022.06 | Youngnam Mathematical Society (영남수학회), Dong-A University Seunghak Campus | Oral | [slides.pdf](light-cone-trace/2022-06-ynms/slides.pdf) | Reconstruction of the initial functions from light cone traces of solutions of the fractional wave equation |
 | 2022.05 | KSIAM Spring Conference (춘계학술대회), IBS | Poster | [poster.pdf](light-cone-trace/2022-05-ksiam-spring/poster.pdf), [slides.pdf](light-cone-trace/2022-05-ksiam-spring/slides.pdf) | Recovering the initial values from the solutions of the fractional wave equation on the light cone trace |
+| 2022.02 | Harmonic Analysis Workshop (조화해석 워크숍), Sungkyunkwan University, online | Oral | [slides.pdf](light-cone-trace/2022-02-harmonic-analysis/slides.pdf) | Reconstruction of the initial functions from the solutions of the fractional wave equation on the light cone trace |
+
+The February 2022 deck survives only up to the definition of W_α; its main-result slides
+(Fourier series, Mellin transform, Theorems 1–2, the lemma and the remark) were lost. The archived
+file restores them from the June 2022 Youngnam deck, which grew out of it, and keeps the
+February title page.
 
 ---
 
@@ -53,17 +71,3 @@ adversarial training.* Proceedings of the 41st ACM/SIGAPP Symposium on Applied C
 | Date | Event | Type | Material | Title as presented |
 |---|---|---|---|---|
 | 2026.03 | 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26), Grand Hotel Palace, Thessaloniki, Greece | Oral | [slides.pdf](wsn-intrusion-detection/2026-03-sac/slides.pdf) | (published title, unchanged) |
-
----
-
-## Not archived here
-
-No file has survived for these talks, which stay listed in the CV without a link:
-
-- *A machine learning and finite element framework for inverse elliptic PDEs via
-  Dirichlet-to-Neumann mapping* — **Oral (contributed student talk)**, 2025 Southeast Applied and
-  Computational Math Student Workshop, Auburn University, 2025.04.06. The talk is recorded in the
-  BK21 overseas-training final report, but no deck was kept.
-- *Light cone trace* — **Oral**, Harmonic Analysis Workshop (조화해석 워크숍), Sungkyunkwan
-  University, online, 2022.02.16 – 02.18. The folder kept for it now holds a later recompile of
-  the June 2022 Youngnam deck, not the workshop version.
