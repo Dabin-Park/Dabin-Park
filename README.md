@@ -38,34 +38,36 @@ machine-learning and finite element methods for inverse elliptic PDEs.
 
 ## Publications
 
+Numbered in order of publication; most recent first.
+
 **Peer-reviewed journal articles**
 
-1. **D. Park**, S. Lee, S. Moon.
-   *A machine learning and finite element framework for inverse elliptic PDEs via Dirichlet-to-Neumann mapping.*
-   **Journal of Computational and Applied Mathematics**, 486 (2026), 117679.
-   [doi:10.1016/j.cam.2026.117679](https://doi.org/10.1016/j.cam.2026.117679) · [arXiv:2504.03895](https://arxiv.org/abs/2504.03895)
+- **[4]** G. Hwang, G. Jeon, S. Moon, **D. Park**.
+  *Implicit learning to determine variable sound speed and the reconstruction operator in photoacoustic tomography.*
+  **Applied Mathematics in Science and Engineering**, 34(1) (2026), 2661458.
+  [doi:10.1080/27690911.2026.2661458](https://doi.org/10.1080/27690911.2026.2661458) · [arXiv:2407.09749](https://arxiv.org/abs/2407.09749)
 
-2. G. Hwang, G. Jeon, S. Moon, **D. Park**.
-   *Implicit learning to determine variable sound speed and the reconstruction operator in photoacoustic tomography.*
-   **Applied Mathematics in Science and Engineering**, 34(1) (2026), 2661458.
-   [doi:10.1080/27690911.2026.2661458](https://doi.org/10.1080/27690911.2026.2661458) · [arXiv:2407.09749](https://arxiv.org/abs/2407.09749)
+- **[3]** **D. Park**, S. Lee, S. Moon.
+  *A machine learning and finite element framework for inverse elliptic PDEs via Dirichlet-to-Neumann mapping.*
+  **Journal of Computational and Applied Mathematics**, 486 (2026), 117679.
+  [doi:10.1016/j.cam.2026.117679](https://doi.org/10.1016/j.cam.2026.117679) · [arXiv:2504.03895](https://arxiv.org/abs/2504.03895)
 
-3. **D. Park**, S. Moon.
-   *Reconstruction of an initial function from the solutions of the fractional wave equation on the light cone trace.*
-   **Mathematical Methods in the Applied Sciences**, 47(12) (2024), 9469–9475.
-   [doi:10.1002/mma.10078](https://doi.org/10.1002/mma.10078)
+- **[1]** **D. Park**, S. Moon.
+  *Reconstruction of an initial function from the solutions of the fractional wave equation on the light cone trace.*
+  **Mathematical Methods in the Applied Sciences**, 47(12) (2024), 9469–9475.
+  [doi:10.1002/mma.10078](https://doi.org/10.1002/mma.10078)
 
 **Refereed conference proceedings**
 
-4. F. Saeed, **D. Park**, S. S. A. Shah, J. Lee, A. Rehman, J.-M. Kang, I.-M. Kim, S. Yun, S. Moon.
-   *Secure and privacy-preserving intrusion detection in wireless sensor networks via perturbation adversarial training.*
-   **Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)**, Thessaloniki, Greece, 2026, pp. 2081–2087.
-   [doi:10.1145/3748522.3779960](https://doi.org/10.1145/3748522.3779960)
+- **[2]** F. Saeed, **D. Park**, S. S. A. Shah, J. Lee, A. Rehman, J.-M. Kang, I.-M. Kim, S. Yun, S. Moon.
+  *Secure and privacy-preserving intrusion detection in wireless sensor networks via perturbation adversarial training.*
+  **Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)**, Thessaloniki, Greece, 2026, pp. 2081–2087.
+  [doi:10.1145/3748522.3779960](https://doi.org/10.1145/3748522.3779960)
 
 **In preparation**
 
-5. **D. Park**, S. Lee, S. Moon.
-   *T-FEONet: A Transformer-based finite element operator network for time-dependent parametric PDEs.*
+- **D. Park**, S. Lee, S. Moon.
+  *T-FEONet: A Transformer-based finite element operator network for time-dependent parametric PDEs.*
 
 ---
 
